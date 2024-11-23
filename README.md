@@ -6,7 +6,8 @@
 👋 Open Source Enthusiast. <br/>
 
 🌲 Personal Site: [adrianrbp.com](https://adrianrbp.com) <br/>
-🦊 Gitlab Repos: [adrianrbp](https://gitlab.com/adrianrbp)
+🦊 Gitlab Repos: [adrianrbp](https://gitlab.com/users/adrianrbp/contributed)
+
 
 ### 💻 Tech Stack
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
